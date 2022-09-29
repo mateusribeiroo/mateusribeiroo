@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 -->
 
 ## Ferramentas e Tecnologias
-<i class="devicon-javascript-plain colored"></i>
-<i class="devicon-typescript-plain colored"></i>
-<i class="devicon-adonisjs-original colored"></i>
-<i class="devicon-nodejs-plain colored"></i>
-<i class="devicon-django-plain colored"></i>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"  width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  width="40" height="40"/>
+
 
